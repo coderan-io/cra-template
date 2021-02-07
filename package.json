@@ -1,19 +1,18 @@
 {
-  "name": "@coderan/cra-template",
-  "version": "1.0.0",
-  "description": "Opiniated CRA template for setting up new React projects",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/coderan-io/cra-template.git"
-  },
-  "author": "Eran Machiels",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/coderan-io/cra-template/issues"
-  },
-  "homepage": "https://github.com/coderan-io/cra-template#readme"
+    "name": "@coderan/cra-template",
+    "version": "1.0.0",
+    "description": "Opiniated CRA template for setting up new React projects",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/coderan-io/cra-template.git"
+    },
+    "author": "Eran Machiels",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/coderan-io/cra-template/issues"
+    },
+    "homepage": "https://github.com/coderan-io/cra-template#readme"
 }
